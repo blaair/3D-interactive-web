@@ -54,7 +54,7 @@
     📄 ex14 EnviromentMap
     📄 ex15 Skybox
     📄 ex16 Skybox와 EnvMap
-  📦 08. Light(조명)
+📦 08. Light(조명)
   📁 light, _fin
     📄 ex01 Light 기본 사용법 및 애니메이션
     📄 ex02 Light 그림자
@@ -62,4 +62,7 @@
     📄 ex04 SpotLight
     📄 ex05 HemishereLight
     📄 ex06 RectAreaLight
+📦 09. Raycaster(클릭 감지)
+  📁 light, _fin
+    📄 ex01 Raycaster의 동작 원리
 ```
